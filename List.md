@@ -12,6 +12,7 @@ This list tracks updates to companies’ remote work policies since the COVID-19
 ## Remote Until...
 * [Amazon](https://www.cnn.com/2020/05/08/tech/tech-companies-working-remotely-2020/index.html) -- October 2020
 * [Google](https://www.cnn.com/2020/05/08/tech/tech-companies-working-remotely-2020/index.html) -- January 2021
+* [PayPal](https://www.linkedin.com/in/arjunmadgavkar/) -- October 2020
 * [Zillow](https://www.cnn.com/2020/05/08/tech/tech-companies-working-remotely-2020/index.html) -- January 2021
 
 
