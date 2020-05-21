@@ -20,6 +20,8 @@ If you want weekly updates to this list emailed to your inbox, subscribe [here](
   * “Moving forward, Squares will be able to work from home permanently, even once offices begin to reopen."
 * [Twitter](https://techcrunch.com/2020/05/12/twitter-says-staff-can-continue-working-from-home-permanently/)
   * "Employees will be able to  continue working from home as long as they see fit."
+* [Vandelay Industries, Inc](https://www.youtube.com/watch?v=j0Xtsi7Jcec)
+  * "As of today all Architectural, as well as all Importing, and Exporting staff will be conducting their work from home full time."
 
 ## Remote Until...
 * [Amazon](https://www.cnn.com/2020/05/08/tech/tech-companies-working-remotely-2020/index.html) -- October 2020
