@@ -3,7 +3,7 @@ This list tracks updates to companies’ remote work policies since the COVID-19
 
 ## Permanently Remote
 * [Coinbase](https://www.yahoo.com/news/coinbase-announces-plans-remote-first-194736233.html)
- * "Employees will still be able to work in an office, but they will now have the option to work remotely, or split their time between time working in and out of the office."
+  * "Employees will still be able to work in an office, but they will now have the option to work remotely, or split their time between time working in and out of the office."
 * [Facebook](https://www.theverge.com/facebook/2020/5/21/21265699/facebook-remote-work-shift-workforce-permanent-covid-19-mark-zuckerberg-interview)
   * "Facebook said today that it would begin allowing most of its employees to request a permanent change in their jobs to let them work remotely. The company will begin today by making most of its US job openings eligible for remote hires and begin taking applications for permanent remote work among its workforce later this year."
 * [Lambda School](https://twitter.com/Austen/status/1260659150817640448?s=20)
