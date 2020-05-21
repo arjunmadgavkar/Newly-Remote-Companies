@@ -1,5 +1,5 @@
 # Newly-Remote-Companies
-This list tracks updates to companies’ remote work policies since the COVID-19 pandemic. 
+This list tracks changes to companies’ remote work policies since the COVID-19 pandemic. The aim is to have a single, crowd-sourced source of truth that we can all use.
 
 If you want to add a company to the list, please create a PR with the name of the company, its policy, and a link to the source. If you're not familiar with Git, then [tweet at me](https://twitter.com/thearjunmad) and I'll create a PR on your behalf.
 
