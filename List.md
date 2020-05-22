@@ -25,6 +25,7 @@ If you want weekly updates to this list emailed to your inbox, subscribe [here](
 
 ## Remote Until...
 * [Amazon](https://www.cnn.com/2020/05/08/tech/tech-companies-working-remotely-2020/index.html) -- October 2020
+* [Box](https://blog.box.com/box-and-future-digital-workplace) -- February 2021
 * [Google](https://www.cnn.com/2020/05/08/tech/tech-companies-working-remotely-2020/index.html) -- January 2021
 * PayPal (informed by employee rather than press release) -- October 2020
 * [Salesforce](https://www.salesforce.com/blog/2020/03/safety-and-wellbeing-those-around-you.html) -- January 2021
