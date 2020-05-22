@@ -1,7 +1,7 @@
 # Newly-Remote-Companies
 This list tracks changes to companies’ remote work policies since the COVID-19 pandemic. The aim is to have a single, crowd-sourced source of truth that we can all use. You can also view this list on [LifeShack](https://lifeshack.io/remote).
 
-If you want to add a company to the list, please create a PR with the name of the company, its policy, and a link to the source. If you're not familiar with Git, then [tweet at me](https://twitter.com/thearjunmad) and I'll create a PR on your behalf.
+If you want to add a company to the list, please create a PR with the name of the company, its policy, and a link to the blog post or article that states this information. If you're not familiar with Git, then [tweet at me](https://twitter.com/thearjunmad) and I'll create a PR on your behalf.
 
 If you want weekly updates to this list emailed to your inbox, subscribe [here](http://eepurl.com/g4mVkb).
 
