@@ -20,6 +20,8 @@ If you want weekly updates to this list emailed to your inbox, subscribe [here](
   * “Moving forward, Squares will be able to work from home permanently, even once offices begin to reopen."
 * [Twitter](https://techcrunch.com/2020/05/12/twitter-says-staff-can-continue-working-from-home-permanently/)
   * "Employees will be able to  continue working from home as long as they see fit."
+* [AWeber](https://blog.aweber.com/uncategorized/aweber-is-now-a-remote-first-team.htm)
+  * "AWeber’s future starts today, as a remote first company in what is our biggest organizational change in 21 years." 100+ team taken remote.
 
 ## Remote Until...
 * [Amazon](https://www.cnn.com/2020/05/08/tech/tech-companies-working-remotely-2020/index.html) -- October 2020
