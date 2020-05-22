@@ -22,6 +22,8 @@ If you want weekly updates to this list emailed to your inbox, subscribe [here](
   * “Moving forward, Squares will be able to work from home permanently, even once offices begin to reopen."
 * [Twitter](https://techcrunch.com/2020/05/12/twitter-says-staff-can-continue-working-from-home-permanently/)
   * "Employees will be able to  continue working from home as long as they see fit."
+* [Upwork](https://twitter.com/hydnbrwn/status/1263840533144727552?s=20)
+  * ".@Upwork knows firsthand the incredible outcomes that distributed teams can deliver. Building on our 20 years of experience as a remote work company, we are now permanently embracing a "remote-first" model."
 
 ## Remote Until...
 * [Amazon](https://www.cnn.com/2020/05/08/tech/tech-companies-working-remotely-2020/index.html) -- October 2020
