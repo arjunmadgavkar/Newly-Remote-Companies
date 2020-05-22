@@ -8,6 +8,8 @@ If you want weekly updates to this list emailed to your inbox, subscribe [here](
 ## Permanently Remote
 * [AWeber](https://blog.aweber.com/uncategorized/aweber-is-now-a-remote-first-team.htm)
   * "AWeber’s future starts today, as a remote first company in what is our biggest organizational change in 21 years." 100+ team taken remote.
+* [Blackship](https://blackship.com) - Japan-based package forwarding service
+ * Non-warehouse team members will be able to continue working from home as long as they see fit.
 * [Coinbase](https://www.yahoo.com/news/coinbase-announces-plans-remote-first-194736233.html)
   * "Employees will still be able to work in an office, but they will now have the option to work remotely, or split their time between time working in and out of the office."
 * [Facebook](https://www.theverge.com/facebook/2020/5/21/21265699/facebook-remote-work-shift-workforce-permanent-covid-19-mark-zuckerberg-interview)
@@ -22,6 +24,8 @@ If you want weekly updates to this list emailed to your inbox, subscribe [here](
   * “Moving forward, Squares will be able to work from home permanently, even once offices begin to reopen."
 * [Twitter](https://techcrunch.com/2020/05/12/twitter-says-staff-can-continue-working-from-home-permanently/)
   * "Employees will be able to  continue working from home as long as they see fit."
+* [White Rabbit Express](https://www.whiterabbitexpress.com) - Buy-and-ship services for Japanese goods
+ * Non-warehouse team members will be able to continue working from home as long as they see fit.
 
 ## Remote Until...
 * [Amazon](https://www.cnn.com/2020/05/08/tech/tech-companies-working-remotely-2020/index.html) -- October 2020
