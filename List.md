@@ -1,5 +1,5 @@
 # THIS LIST IS NO LONGER BEING MAINTAINED. WE'VE CREATED A FAR BETTER WEB APP THAT YOU CAN USE.
-Check out out at https://remote.lifeshack.io. If you want weekly updates to this list emailed to your inbox, subscribe [here](http://eepurl.com/g4mVkb).
+Check out out at https://lifeshack.io/remote. If you want weekly updates to this list emailed to your inbox, subscribe [here](http://eepurl.com/g4mVkb).
 
 # OLD DOCUMENT:
 
