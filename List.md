@@ -1,11 +1,14 @@
-# Newly-Remote-Companies
+# THIS LIST IS NO LONGER BEING MAINTAINED. WE'VE CREATED A FAR BETTER WEB APP THAT YOU CAN USE.
+Check out out at https://remote.lifeshack.io. If you want weekly updates to this list emailed to your inbox, subscribe [here](http://eepurl.com/g4mVkb).
+
+# OLD DOCUMENT:
+
+## Newly-Remote-Companies
 This list tracks changes to companies’ remote work policies since the COVID-19 pandemic. The aim is to have a single, crowd-sourced source of truth that we can all use. You can also view this list on [LifeShack](https://lifeshack.io/remote).
 
 If you want to add a company to the list, please create a PR with the name of the company, its policy, and a link to the blog post or article that states this information. If you're not familiar with Git, then [tweet at me](https://twitter.com/thearjunmad) and I'll create a PR on your behalf.
 
-If you want weekly updates to this list emailed to your inbox, subscribe [here](http://eepurl.com/g4mVkb).
-
-## Permanently Remote
+### Permanently Remote
 * [AWeber](https://blog.aweber.com/uncategorized/aweber-is-now-a-remote-first-team.htm)
   * "AWeber’s future starts today, as a remote first company in what is our biggest organizational change in 21 years." 100+ team taken remote.
 * [Coinbase](https://www.yahoo.com/news/coinbase-announces-plans-remote-first-194736233.html)
@@ -25,7 +28,7 @@ If you want weekly updates to this list emailed to your inbox, subscribe [here](
 * [Upwork](https://twitter.com/hydnbrwn/status/1263840533144727552?s=20)
   * ".@Upwork knows firsthand the incredible outcomes that distributed teams can deliver. Building on our 20 years of experience as a remote work company, we are now permanently embracing a "remote-first" model."
 
-## Remote Until...
+### Remote Until...
 * [Amazon](https://www.cnn.com/2020/05/08/tech/tech-companies-working-remotely-2020/index.html) -- October 2020
 * [Box](https://blog.box.com/box-and-future-digital-workplace) -- February 2021
 * [Google](https://www.cnn.com/2020/05/08/tech/tech-companies-working-remotely-2020/index.html) -- January 2021
