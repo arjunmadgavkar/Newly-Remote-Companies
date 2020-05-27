@@ -1,4 +1,4 @@
-# THIS LIST IS NO LONGER UP TO DATE BECAUSE WE CREATED A 100Z BETTER WEB TOOL THAT YOU CAN USE.
+# THIS LIST IS NO LONGER UP TO DATE BECAUSE WE CREATED A 100x BETTER WEB TOOL THAT YOU CAN USE.
 Check out out at https://lifeshack.io/remote. If you want weekly updates to this list emailed to your inbox, subscribe [here](http://eepurl.com/g4mVkb).
 
 # OLD DOCUMENT:
